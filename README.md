@@ -46,5 +46,7 @@ The goal of this project is to:
 ## 📂 Project Structure
 ![Image](https://github.com/user-attachments/assets/7a1ce776-7954-4eb4-bbb4-2110fae49fb7)
 ![Image](https://github.com/user-attachments/assets/7561cdcd-df93-4303-9481-9900ebd4872b)
+![Image](https://github.com/user-attachments/assets/0108d697-ef27-4aea-913b-913af2ccad89)
+
 
 
