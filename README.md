@@ -44,5 +44,5 @@ The goal of this project is to:
 *Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category*
 
 ## 📂 Project Structure
-
+![Image](https://github.com/user-attachments/assets/7a1ce776-7954-4eb4-bbb4-2110fae49fb7)
 
